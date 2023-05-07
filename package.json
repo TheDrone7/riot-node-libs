@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.5",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@fightmegg/riot-api": "^0.0.12",
+    "@fontsource/fira-code": "^4.5.13",
+    "@fontsource/poppins": "^4.5.10",
+    "galeforce": "^0.6.1",
+    "leagueapiwrapper": "^2.5.0",
+    "leaguejs": "^2.3.1",
+    "octokit": "^2.0.14",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.28.0",
+    "shieldbow": "^2.0.4",
+    "shiki-es": "^0.2.0",
+    "teemojs": "^1.9.0",
+    "twisted": "^1.53.1"
+  }
+}
