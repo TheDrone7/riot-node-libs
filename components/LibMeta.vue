@@ -19,7 +19,6 @@ interface GitHubInfo {
     spdx_id: string;
     key: string;
   };
-  topics: string[];
   homepage: string;
 }
 
